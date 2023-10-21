@@ -1,0 +1,1 @@
+This is a fully typed Patreon API wrapper. The Patreon API is a weird bastardization of GraphQL concepts implemented on top of REST, and requires insanely complicated types to accurately model. Also included in this wrapper is methods to rewrite API responses into a format you'd actually want to use.
